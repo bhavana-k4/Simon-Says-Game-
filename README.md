@@ -28,16 +28,6 @@ Want to play right away? Check out the live version here:
 
 **[➡️ Play Simon Says Simon] linkk **
 
-
-## 🛠️ Tech Stack
-
-This project was built using the following technologies:
-
-* **HTML5**: For the structure of the game.
-* **CSS3**: For styling the game board and making it responsive.
-* **JavaScript (ES6+)**: For all the game logic, event handling, and DOM manipulation.
-
 ---
-## 🙏 Acknowledgements
 
 * A huge thanks to the creators of the original Simon game for the inspiration. 🙏❤
