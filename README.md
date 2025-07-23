@@ -10,10 +10,9 @@ The goal is simple: **Get the highest score possible!**
 
 ## ✨ Features
 
-* **Classic Gameplay**: Follow the flashing lights and sounds.
+* **Classic Gameplay**: Follow the flashing lights.
 * **Increasing Difficulty**: The sequence gets longer with every correct round.
 * **Interactive UI**: Clean and responsive interface with clear visual feedback.
-* **Sound Effects**: Audio cues for each button press to match the original experience.
 * **Score Tracking**: Your current level/score is displayed throughout the game.
 * **Game Over & Restart**: A clear game-over state with an option to easily start a new game.
 
