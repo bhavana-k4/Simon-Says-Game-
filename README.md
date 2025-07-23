@@ -26,7 +26,7 @@ The goal is simple: **Get the highest score possible!**
 
 Want to play right away? Check out the live version here:
 
-**[➡️ Play Simon Says Simon]  https://bhavana-k4.github.io/Simon-Says-Game-/**
+**➡️ Play Simon Says Simon  https://bhavana-k4.github.io/Simon-Says-Game-/**
 
 ---
 
