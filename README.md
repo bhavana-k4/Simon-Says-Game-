@@ -2,9 +2,6 @@
 
 A classic memory game brought to life with modern web technologies. Test your memory and see how long you can keep up with Simon!
 
-![Simon Says Simon Gameplay](./assets/gameplay-demo.gif)
-_**(Important: Create a GIF or screenshot of your game, save it in your project (e.g., in an `assets` folder), and replace the path above!)**_
-
 ## 🎮 About The Game
 
 Simon Says Simon is a web-based implementation of the classic electronic memory game "Simon". The game presents a series of colors and tones, and the player must repeat the sequence in the correct order. With each successful round, the sequence gets one step longer. The game ends when the player makes a mistake.
