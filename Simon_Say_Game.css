@@ -33,3 +33,26 @@ body{
 .userflash{
     background-color: green;
 }
+
+/* === Responsive Mobile View === */
+@media (max-width: 650px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+
+  .btn-container {
+    flex-direction: column; /* Stack the two lines vertically */
+    align-items: center;    /* Center the stacked lines */
+  }
+
+  .btn {
+    height: 120px;
+    width: 120px;
+    margin: 0.8rem;
+    border-width: 3px;
+  }
+}
